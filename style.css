@@ -484,7 +484,7 @@ form a{
         position: absolute;
         top: 70px;
         left: 0;
-        background: #333;
+        background: #ff7c7c;
         width: 100%;
         /*below is for js functionality*/
         overflow: hidden;
